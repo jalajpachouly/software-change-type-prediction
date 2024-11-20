@@ -196,10 +196,10 @@ metrics_dict = {
     },
     'Balanced': {
         'Logistic Regression': {'Accuracy': 0.79, 'Precision': 0.79, 'Recall': 0.79, 'F1-Score': 0.79},
-        'Linear SVM': {'Accuracy': 0.79, 'Precision': 0.80, 'Recall': 0.79, 'F1-Score': 0.79},
-        'Multinomial NB': {'Accuracy': 0.72, 'Precision': 0.76, 'Recall': 0.72, 'F1-Score': 0.72},
-        'Random Forest': {'Accuracy': 0.79, 'Precision': 0.80, 'Recall': 0.79, 'F1-Score': 0.78},
-        'BERT': {'Accuracy': 0.88, 'Precision': 0.88, 'Recall': 0.88, 'F1-Score': 0.88}
+        'Linear SVM': {'Accuracy': 0.80, 'Precision': 0.80, 'Recall': 0.80, 'F1-Score': 0.80},
+        'Multinomial NB': {'Accuracy': 0.71, 'Precision': 0.75, 'Recall': 0.71, 'F1-Score': 0.72},
+        'Random Forest': {'Accuracy': 0.77, 'Precision': 0.78, 'Recall': 0.77, 'F1-Score': 0.77},
+        'BERT': {'Accuracy': 0.89, 'Precision': 0.89, 'Recall': 0.89, 'F1-Score': 0.88}
     }
 }
 
